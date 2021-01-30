@@ -1,0 +1,14 @@
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\bin\Release\netcoreapp2.1\AdjacentMaxDistance.deps.json
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\bin\Release\netcoreapp2.1\AdjacentMaxDistance.runtimeconfig.json
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\bin\Release\netcoreapp2.1\AdjacentMaxDistance.runtimeconfig.dev.json
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\bin\Release\netcoreapp2.1\AdjacentMaxDistance.dll
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\bin\Release\netcoreapp2.1\AdjacentMaxDistance.pdb
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.csproj.CoreCompileInputs.cache
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.RazorAssemblyInfo.cache
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.RazorAssemblyInfo.cs
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.AssemblyInfoInputs.cache
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.AssemblyInfo.cs
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.RazorTargetAssemblyInfo.cache
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.dll
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.pdb
+C:\Matheus Solutions\AdjacentMaxDistance\AdjacentMaxDistance\obj\Release\netcoreapp2.1\AdjacentMaxDistance.csprojAssemblyReference.cache
